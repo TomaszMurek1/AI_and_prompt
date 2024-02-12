@@ -1,0 +1,19 @@
+{
+  "name": "ai_and_prompt_edx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@langchain/openai": "^0.0.14",
+    "dotenv": "^16.4.2",
+    "inquirer": "^8.2.4",
+    "langchain": "^0.1.17"
+  }
+}
